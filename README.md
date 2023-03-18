@@ -1,5 +1,5 @@
 # Pi Calculator
-Calculate Pi from your command line!
+A simple CLI for calculating Pi.
 
 ## Installation
 To install Pi Calculator, all you need is one command.
