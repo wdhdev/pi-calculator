@@ -2,10 +2,10 @@
   "name": "pi-calculator",
   "version": "1.0.0",
   "description": "A simple CLI for calculating Pi.",
-  "main": "src/index.js",
+  "main": "index.js",
   "bin": {
-    "calc-pi": "src/index.js",
-    "pi": "src/index.js"
+    "calc-pi": "index.js",
+    "pi": "index.js"
   },
   "repository": {
     "type": "git",
