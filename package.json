@@ -1,0 +1,24 @@
+{
+  "name": "pi-calculator",
+  "version": "1.0.0",
+  "description": "A simple CLI for calculating Pi.",
+  "main": "src/index.js",
+  "bin": {
+    "calc-pi": "src/index.js",
+    "pi": "src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wdhdev/pi-calculator.git"
+  },
+  "keywords": [
+    "pi",
+    "calculator"
+  ],
+  "author": "William Harrison <william@williamharrison.dev>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wdhdev/pi-calculator/issues"
+  },
+  "homepage": "https://pi.wdh.gg"
+}
